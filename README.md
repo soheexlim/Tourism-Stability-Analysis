@@ -109,16 +109,48 @@ These findings underscore the importance of political stability not just for gen
 
 ---
 
-## 7. Results
+---
 
-- **Political stability** has a statistically significant and positive effect on international tourism revenue.
-- The **interaction term** confirms that countries with higher household consumption benefit more from political stability.
-- **GDP per capita**, **FDI**, and **inflation** are significant and behave as theoretically expected.
-- The **tourism arrivals** model reinforces the robustness of the core results.
+## 7. Key Findings and Stakeholder Takeaways
+
+- **Political Stability Positively Impacts Tourism Revenue**  
+  Countries with higher political stability consistently attract more international tourism revenue. The relationship remains significant even when controlling for macroeconomic conditions.
+
+- **Amplified Effect with Higher Income Levels**  
+  The interaction plot and regression models show that the economic benefits of political stability are strongest in countries with higher household consumption. In less affluent countries, gains from improved stability are present but more modest.
+
+- **Stable Countries Attract Higher-Spending Tourists**  
+  In more stable environments, tourists may be willing to spend more due to perceived safety, infrastructure, and marketing reach.
+
+- **Clear Visual and Statistical Trends**  
+  Scatter plots and heatmaps reveal that both political and economic stability are consistently aligned with stronger tourism performance, even after accounting for other influences.
+
+- **Strong Global Policy Implications**  
+  The trend plot shows that the tourism revenue gap between stable and unstable countries has widened over time, emphasizing the urgency of policy reform in unstable nations.
 
 ---
 
-## 8. Challenges and Limitations
+## 8. Actionable Recommendations
+
+- **Strengthen Political Institutions to Attract Tourism**  
+  Governments should prioritize stability-enhancing policies (anti-corruption, legal transparency, peacekeeping) as part of their economic development plans.
+
+- **Pair Political Reform with Domestic Economic Empowerment**  
+  International development organizations and donor countries should coordinate political stability programs with household-level economic support to maximize tourism potential.
+
+- **Target Marketing for Stable Regions**  
+  Tourism ministries in politically stable countries should highlight safety and governance in promotional campaigns, especially in regions competing for global travelers.
+
+- **Invest in Country Branding and Risk Perception Management**  
+  For countries improving in stability, strategic PR can help overcome outdated reputational concerns and attract new tourist segments.
+
+- **Incorporate Institutional Metrics in Future Research and Policy**  
+  Expanding the model to include corruption indices, regime types, and conflict data can yield more targeted policy suggestions and refine the economic case for good governance.
+
+
+---
+
+## 9. Challenges and Limitations
 
 - **Missing Data**: Political stability metrics are only available from 1996 onward, reducing the time range.
 - **Proxy Variables**: Household consumption is used as a proxy for disposable income.
@@ -129,7 +161,7 @@ These findings underscore the importance of political stability not just for gen
 
 ---
 
-## 9. Future Directions
+## 10. Future Directions
 
 - Apply **Poisson fixed-effects regression** to better model count-based outcomes like tourist arrivals.
 - Consider dependent variables like **tourism receipts per capita** or **% of GDP** for normalization.
